@@ -1,36 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Godlike Trait</name>
+	<name>Godlike</name>
 	<author>Phunky</author>
 	<url>https://www.youtube.com/Phunky</url>
+	<url>https://www.github.com/Phnky</url>
 	<targetVersion>0.17.1546</targetVersion>
-	<description>I was looking for a mod that would would give me a trait to make a badass pawn. One who could single handedly take down a large raid, one who could do work faster than a small colony, one who moved faster than a pawn running on speed 3, and carried more than a muffalo. Even if I were to give a pawn 20 of all stats, it wasn't enough for me. Sure they would work faster, and do things better like that relative of yours that your parents always compare you to, but I don't want Elon Musk, I wanted Tony Stark. Fictional, unrealistic, and overpowered. There are trait mods already on the workshop that satiated my thirst for awhile, but you would have to add several traits or have some downsides that come along with a trait for 'balance'. I didn't want that. I wanted a hero. So, I created this mod, and have decided to share with you, the hero of Rimworld we do not deserve.
+	<description>I was looking for a mod that would would give me a trait to make a badass pawn. One who could single
+		handedly take down a large raid, one who could do work faster than a small colony, one who moved faster than a pawn
+		running on speed 3, and carried more than a muffalo. Even if I were to give a pawn 20 of all stats, it wasn't enough
+		for me. Sure they would work faster, and do things better like that relative of yours that your parents always
+		compare you to, but I don't want Elon Musk, I wanted Tony Stark. Fictional, unrealistic, and overpowered. There are
+		trait mods already on the workshop that satiated my thirst for awhile, but you would have to add several traits or
+		have some downsides that come along with a trait for 'balance'. I didn't want that. I wanted a hero. So, I created
+		this mod, and have decided to share with you, the hero of Rimworld we do not deserve.
 
-Godlike Trait:
-- 20 of all Stats.
-- aims 500% faster.
-- shooting accuracy increased by 200%.
-- melee accuracy increased by 100%.
-- blunt and sharp armor increased by 500%.
-- work speed increased by 500%
-- 0% food poisoning chance.
-- 100% increased learning rate.
-- 200% increased immunity gain rate.
-- 100% increased medical surgery rate and tend quality.
-- 500% decreased chance of mental break.
-- moves 5x as faster than a base pawn.
-- harvest yield increased by 200%.
-- not affected by psychic drone / ship.
-- tame and train animal chance increased by 100%.
+		Godlike Trait:
+		- 20 of all Stats.
+		- aims 500% faster.
+		- shooting accuracy increased by 200%.
+		- melee accuracy increased by 100%.
+		- blunt and sharp armor increased by 500%.
+		- work speed increased by 500%
+		- 0% food poisoning chance.
+		- 100% increased learning rate.
+		- 200% increased immunity gain rate.
+		- 100% increased medical surgery rate and tend quality.
+		- 500% decreased chance of mental break.
+		- moves 5x as faster than a base pawn.
+		- harvest yield increased by 200%.
+		- not affected by psychic drone / ship.
+		- tame and train animal chance increased by 100%.
 
-*note: these are modifying the default values of the pawns. Increasing melee accuracy by 100%, does not mean the pawn will hit 100% of the time. It means that the pawn is twice as likely to hit their target.
+		*note: these are modifying the default values of the pawns. Increasing melee accuracy by 100%, does not mean the pawn
+		will hit 100% of the time. It means that the pawn is twice as likely to hit their target.
 
-TODO:
-- make immune to temperature.
-- make immune to poison gas.
+		TODO:
+		- make immune to temperature.
+		- make immune to poison gas.
 
-V1.0
-- initial commit
+		V1.0
+		- initial commit
 
 	</description>
 </ModMetaData>
