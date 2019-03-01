@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<TraitDefs>
-
+<Defs>
     <TraitDef>
         <defName>Godlike</defName>
         <commonality>0.001</commonality>
         <degreeDatas>
             <li>
                 <label>Godlike</label>
-                <description>HIS abilities resemble that of a god.</description>
+                <description>[Pawn_nameDef] abilities resemble that of a god.</description>
                 <statOffsets>
                     <AimingDelayFactor>-5</AimingDelayFactor>
                     <ArmorRating_Blunt>5</ArmorRating_Blunt>
@@ -86,5 +85,4 @@
             </li>
         </degreeDatas>
     </TraitDef>
-
-</TraitDefs>
+</Defs>
