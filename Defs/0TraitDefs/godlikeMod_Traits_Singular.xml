@@ -8,29 +8,25 @@
                 <label>Godlike</label>
                 <description>[PAWN_nameDef] abilities resemble that of a god.</description>
                 <statOffsets>
-                    <AimingDelayFactor>-5</AimingDelayFactor>
-                    <ArmorRating_Blunt>5</ArmorRating_Blunt>
-                    <ArmorRating_Sharp>5</ArmorRating_Sharp>
-                    <CarryingCapacity>500</CarryingCapacity>
-                    <FoodPoisonChance>0</FoodPoisonChance>
-                    <GiftImpact>1</GiftImpact>
                     <GlobalLearningFactor>1</GlobalLearningFactor>
-                    <ImmunityGainSpeed>2</ImmunityGainSpeed>
-                    <MedicalSurgerySuccessChance>1</MedicalSurgerySuccessChance>
-                    <MedicalTendQuality>1</MedicalTendQuality>
+                    <HungerRateMultiplier>-0.50</HungerRateMultiplier>
                     <MeleeHitChance>1</MeleeHitChance>
-                    <MentalBreakThreshold>-5</MentalBreakThreshold>
+                    <MeleeDodgeChance>20</MeleeDodgeChance>
+                    <PainShockThreshold>20</PainShockThreshold>
                     <MoveSpeed>5</MoveSpeed>
-                    <!-- <painShockThreshold>1.2</painShockThreshold> Can't find reference to. Exists in Core Traits-->
-                    <PlantHarvestYield>2</PlantHarvestYield>
+                    <MentalBreakThreshold>-1</MentalBreakThreshold>
+                    <WorkSpeedGlobal>5</WorkSpeedGlobal> <!-- A lot of other statOffsets probably fall under this tag -->
                     <PsychicSensitivity>-1</PsychicSensitivity>
-                    <RecruitPrisonerChance>1</RecruitPrisonerChance>
-                    <ShootingAccuracy>2</ShootingAccuracy>
-                    <!-- <SocialImpact>2</SocialImpact> -->
+                    <AimingDelayFactor>-5</AimingDelayFactor>
+                    <ShootingAccuracyPawn>2</ShootingAccuracyPawn>
+                    <!-- <MarketValueFactorOffset>1</MarketValueFactorOffset>  Pawn beauty //for some reason throws errors-->
+                    <ImmunityGainSpeed>1</ImmunityGainSpeed>
+                    <ToxicSensitivity>-1</ToxicSensitivity>
+                    <ResearchSpeed>1</ResearchSpeed>
+                    <SocialImpact>1</SocialImpact>
                     <TameAnimalChance>1</TameAnimalChance>
-                    <TrainAnimalChance>1</TrainAnimalChance>
-                    <TradePriceImprovement>2</TradePriceImprovement>
-                    <WorkSpeedGlobal>5</WorkSpeedGlobal>
+				    <TrainAnimalChance>1</TrainAnimalChance>
+                    <CarryingCapacity>200</CarryingCapacity>
                 </statOffsets>
                 <skillGains>
                   <li>
