@@ -7,41 +7,41 @@
 		<li>1.0.2059</li>
 	</supportedVersions>
 	<description>
-		I was looking for a mod that would would give me a trait to make a badass pawn. One who could single handedly take down a large raid, one who could do work faster than a small colony, one who moved faster than a pawn running on speed 3, and carried more than a muffalo. Even if I were to give a pawn 20 of all stats, it wasn't enough for me. Sure they would work faster, and do things better, like that relative of yours that your parents always compare you to, but I don't want Elon Musk, I wanted Tony Stark. Fictional, unrealistic, and overpowered. There are trait mods already on the workshop that satiated my thirst for awhile, but you would have to add several traits or have some downsides that come along with a trait for 'balance'. I didn't want that. I wanted a hero. So, I created this mod, and have decided to share with you, the hero of Rimworld we do not deserve.
+I was looking for a mod that would would give me a trait to make a badass pawn. One who could single handedly take down a large raid, one who could do work faster than a small colony, one who moved faster than a pawn running on speed 3, and carried more than a muffalo. Even if I were to give a pawn 20 of all stats, it wasn't enough for me. Sure they would work faster, and do things better, like that relative of yours that your parents always compare you to, but I don't want Elon Musk, I wanted Tony Stark. Fictional, unrealistic, and overpowered. There are trait mods already on the workshop that satiated my thirst for awhile, but you would have to add several traits or have some downsides that come along with a trait for 'balance'. I didn't want that. I wanted a hero. So, I created this mod, and have decided to share with you, the hero of Rimworld we do not deserve.
 
-		This is very much a cheat mod, as a pawn with this trait can do everything a regular pawn can almost instantly.
+This is very much a cheat mod, as a pawn with this trait can do everything a regular pawn can almost instantly.
 
-		Note: I actually don't really play Rimworld as much anymore. I made this around A17 but never uploaded it to the workshop. I updated this because I saw it sitting in my Github and wondered if it still worked. I removed a lot	of deprecated stuff and renamed the necessary tags so that it wouldn't throw any more errors. If you use this,	please let me know if something isn't working as intended.
+Note: I actually don't really play Rimworld as much anymore. I made this around A17 but never uploaded it to the workshop. I updated this because I saw it sitting in my Github and wondered if it still worked. I removed a lot	of deprecated stuff and renamed the necessary tags so that it wouldn't throw any more errors. If you use this,	please let me know if something isn't working as intended.
 
-		Godlike Trait:
-		- 20 of all Stats.
-		- aims 500% faster.
-		- shooting accuracy increased by 200%.
-		- melee accuracy increased by 100%.
-		- work speed increased by 500%
-		- 100% increased learning rate.
-		- 200% increased immunity gain rate.
-		- 100% decreased chance of mental break.
-		- moves 5x as faster than a base pawn.
-		- not affected by psychic drone / ship.
-		- tame and train animal chance increased by 100%.
-		- increased carrying capacity to 200
+Godlike Trait:
+- 20 of all Stats.
+- aims 500% faster.
+- shooting accuracy increased by 200%.
+- melee accuracy increased by 100%.
+- work speed increased by 500%
+- 100% increased learning rate.
+- 200% increased immunity gain rate.
+- 100% decreased chance of mental break.
+- moves 5x as faster than a base pawn.
+- not affected by psychic drone / ship.
+- tame and train animal chance increased by 100%.
+- increased carrying capacity to 200
 
-		Feel free to send me suggestions/bug reports on discord at Phunky#0001 
-		or on the github repo at https://github.com/Phnky/rimworld-godlike-mod
+Feel free to send me suggestions/bug reports on discord at Phunky#0001 
+or on the github repo at https://github.com/Phnky/rimworld-godlike-mod
 
-		https://www.youtube.com/Phunky
-		https://www.github.com/Phnky
+https://www.youtube.com/Phunky
+https://www.github.com/Phnky
 
-		TODO:
-		- make immune to temperature.
-		- make immune to poison gas.
-		
-		v1.1
-		-updated for Rimworld 1.0 release
+TODO:
+- make immune to temperature.
+- make immune to poison gas.
 
-		V1.0
-		- initial commit
+v1.1
+-updated for Rimworld 1.0 release
+
+V1.0
+- initial commit
 
 	</description>
 </ModMetaData>
