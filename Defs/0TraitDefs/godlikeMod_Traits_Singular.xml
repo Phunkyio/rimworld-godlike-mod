@@ -2,11 +2,11 @@
 <Defs>
     <TraitDef>
         <defName>Godlike</defName>
-        <commonality>0</commonality>
+        <commonality>0.0001</commonality>
         <degreeDatas>
             <li>
                 <label>Godlike</label>
-                <description>[PAWN_nameDef] abilities resemble that of a god.</description>
+                <description>[PAWN_nameDef]'s abilities resemble that of a god.</description>
                 <statOffsets>
                     <GlobalLearningFactor>1</GlobalLearningFactor>
                     <HungerRateMultiplier>-0.50</HungerRateMultiplier>
