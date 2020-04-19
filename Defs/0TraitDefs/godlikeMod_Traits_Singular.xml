@@ -2,7 +2,7 @@
 <Defs>
     <TraitDef>
         <defName>Godlike</defName>
-        <commonality>0.0001</commonality>
+        <commonality>0.001</commonality>
         <degreeDatas>
             <li>
                 <label>Godlike</label>
@@ -50,7 +50,7 @@
                         <value>20</value>
                     </li>
                     <li>
-                        <key>Growing</key>
+                        <key>Plants</key>
                         <value>20</value>
                     </li>
                     <li>
