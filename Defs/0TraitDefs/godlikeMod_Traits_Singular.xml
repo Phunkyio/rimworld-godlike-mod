@@ -16,7 +16,7 @@
                     <MoveSpeed>5</MoveSpeed>
                     <MentalBreakThreshold>-1</MentalBreakThreshold>
                     <WorkSpeedGlobal>5</WorkSpeedGlobal> <!-- A lot of other statOffsets probably fall under this tag -->
-                    <PsychicSensitivity>-1</PsychicSensitivity>
+                    <!-- <PsychicSensitivity>-1</PsychicSensitivity> removed to allow psylink powers-->
                     <AimingDelayFactor>-5</AimingDelayFactor>
                     <ShootingAccuracyPawn>2</ShootingAccuracyPawn>
                     <!-- <MarketValueFactorOffset>1</MarketValueFactorOffset>  Pawn beauty //for some reason throws errors-->
