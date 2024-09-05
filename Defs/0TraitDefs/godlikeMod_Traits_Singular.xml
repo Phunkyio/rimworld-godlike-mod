@@ -8,24 +8,26 @@
                 <label>Godlike</label>
                 <description>[PAWN_nameDef]'s abilities resemble that of a god.</description>
                 <statOffsets>
-                    <GlobalLearningFactor>1</GlobalLearningFactor>
-                    <MeleeHitChance>1</MeleeHitChance>
+                    <GlobalLearningFactor>5</GlobalLearningFactor>
+                    <MeleeHitChance>20</MeleeHitChance>
                     <MeleeDodgeChance>20</MeleeDodgeChance>
                     <PainShockThreshold>20</PainShockThreshold>
                     <MoveSpeed>5</MoveSpeed>
-                    <MentalBreakThreshold>-1</MentalBreakThreshold>
+                    <MentalBreakThreshold>-1.5</MentalBreakThreshold>
                     <WorkSpeedGlobal>5</WorkSpeedGlobal> <!-- A lot of other statOffsets probably fall under this tag -->
                     <!-- <PsychicSensitivity>-1</PsychicSensitivity> removed to allow psylink powers-->
                     <AimingDelayFactor>-10</AimingDelayFactor>
                     <ShootingAccuracyPawn>20</ShootingAccuracyPawn>
-                    <ImmunityGainSpeed>1</ImmunityGainSpeed>
-                    <ToxicResistance>1</ToxicResistance>
-                    <ToxicEnvironmentResistance>1</ToxicEnvironmentResistance>
-                    <ResearchSpeed>1</ResearchSpeed>
-                    <SocialImpact>1</SocialImpact>
-                    <TameAnimalChance>1</TameAnimalChance>
-				    <TrainAnimalChance>1</TrainAnimalChance>
+                    <ImmunityGainSpeed>5</ImmunityGainSpeed>
+                    <ToxicResistance>5</ToxicResistance>
+                    <ToxicEnvironmentResistance>5</ToxicEnvironmentResistance>
+                    <ResearchSpeed>5</ResearchSpeed>
+                    <SocialImpact>5</SocialImpact>
+                    <TameAnimalChance>5</TameAnimalChance>
+				    <TrainAnimalChance>5</TrainAnimalChance>
                     <CarryingCapacity>200</CarryingCapacity>
+                    <ComfyTemperatureMin>-50</ComfyTemperatureMin>
+                    <ComfyTemperatureMax>50</ComfyTemperatureMax>
                 </statOffsets>
                 <statFactors>
                     <IncomingDamageFactor>0.1</IncomingDamageFactor>
