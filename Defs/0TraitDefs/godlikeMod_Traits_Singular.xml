@@ -20,7 +20,7 @@
                     <ImmunityGainSpeed>0.75</ImmunityGainSpeed>
                     <ToxicResistance>0.75</ToxicResistance>
                     <ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
-                    <ResearchSpeed>0.5</ResearchSpeed>
+                    <ResearchSpeed>1.0</ResearchSpeed>
                     <SocialImpact>0.75</SocialImpact>
                     <TameAnimalChance>0.6</TameAnimalChance>
                     <TrainAnimalChance>0.6</TrainAnimalChance>
