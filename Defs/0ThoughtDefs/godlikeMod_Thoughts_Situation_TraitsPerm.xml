@@ -2,18 +2,18 @@
 <Defs>
 
   <ThoughtDef>
-    <defName>MoodOffsetGodlike</defName>
+    <defName>MoodOffsetAmazing</defName>
     <workerClass>ThoughtWorker_AlwaysActive</workerClass>
     <validWhileDespawned>true</validWhileDespawned>
     <developmentalStageFilter>Baby, Child, Adult</developmentalStageFilter>
     <requiredTraits>
-      <li>Godlike</li>
+      <li>Amazing</li>
     </requiredTraits>
     <stages>
       <li>
-        <label>godlike</label>
-        <description>Supernatural mood bonus.</description>
-        <baseMoodEffect>120</baseMoodEffect>
+        <label>amazing</label>
+        <description>I'm in a great mood because of how awesome I am.</description>
+        <baseMoodEffect>30</baseMoodEffect>
       </li>
     </stages>
   </ThoughtDef>

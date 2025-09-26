@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Defs>
     <TraitDef>
-        <defName>Godlike</defName>
+        <defName>Amazing</defName>
         <commonality>0.001</commonality>
         <degreeDatas>
             <li>
-                <label>Godlike</label>
-                <description>[PAWN_nameDef]'s abilities resemble that of a god.</description>
+                <label>Amazing</label>
+                <description>[PAWN_nameDef]'s abilities are absolutely amazing.</description>
                 <statOffsets>
-                    <GlobalLearningFactor>5</GlobalLearningFactor>
-                    <MeleeHitChance>20</MeleeHitChance>
-                    <MeleeDodgeChance>20</MeleeDodgeChance>
-                    <PainShockThreshold>20</PainShockThreshold>
-                    <MoveSpeed>5</MoveSpeed>
-                    <MentalBreakThreshold>-1.5</MentalBreakThreshold>
-                    <WorkSpeedGlobal>5</WorkSpeedGlobal> <!-- A lot of other statOffsets probably fall under this tag -->
-                    <!-- <PsychicSensitivity>-1</PsychicSensitivity> removed to allow psylink powers-->
-                    <AimingDelayFactor>-10</AimingDelayFactor>
-                    <ShootingAccuracyPawn>20</ShootingAccuracyPawn>
-                    <ImmunityGainSpeed>5</ImmunityGainSpeed>
-                    <ToxicResistance>5</ToxicResistance>
-                    <ToxicEnvironmentResistance>5</ToxicEnvironmentResistance>
-                    <ResearchSpeed>5</ResearchSpeed>
-                    <SocialImpact>5</SocialImpact>
-                    <TameAnimalChance>5</TameAnimalChance>
-				    <TrainAnimalChance>5</TrainAnimalChance>
-                    <CarryingCapacity>200</CarryingCapacity>
-                    <ComfyTemperatureMin>-50</ComfyTemperatureMin>
-                    <ComfyTemperatureMax>50</ComfyTemperatureMax>
+                    <GlobalLearningFactor>80.0</GlobalLearningFactor>
+                    <MeleeHitChance>0.3</MeleeHitChance>
+                    <MeleeDodgeChance>0.3</MeleeDodgeChance>
+                    <PainShockThreshold>0.3</PainShockThreshold>
+                    <MoveSpeed>0.75</MoveSpeed>
+                    <MentalBreakThreshold>-0.6</MentalBreakThreshold>
+                    <WorkSpeedGlobal>0.75</WorkSpeedGlobal>
+                    <AimingDelayFactor>-0.3</AimingDelayFactor>
+                    <AccuracyLong>0.3</AccuracyLong>
+                    <ImmunityGainSpeed>0.75</ImmunityGainSpeed>
+                    <ToxicResistance>0.75</ToxicResistance>
+                    <ToxicEnvironmentResistance>0.75</ToxicEnvironmentResistance>
+                    <ResearchSpeed>0.5</ResearchSpeed>
+                    <SocialImpact>0.75</SocialImpact>
+                    <TameAnimalChance>0.6</TameAnimalChance>
+                    <TrainAnimalChance>0.6</TrainAnimalChance>
+                    <CarryingCapacity>40</CarryingCapacity>
+                    <ComfyTemperatureMin>-10</ComfyTemperatureMin>
+                    <ComfyTemperatureMax>10</ComfyTemperatureMax>
                 </statOffsets>
                 <statFactors>
                     <IncomingDamageFactor>0.1</IncomingDamageFactor>
@@ -35,19 +34,18 @@
                     <RestFallRateFactor>0.1</RestFallRateFactor>
                 </statFactors>
                 <skillGains>
-                    <!-- Changed out the li/(key|value) for this - slightly more readable and concise -->
-                    <Animals>20</Animals>
-                    <Artistic>20</Artistic>
-                    <Construction>20</Construction>
-                    <Cooking>20</Cooking>
-                    <Crafting>20</Crafting>
-                    <Plants>20</Plants>
-                    <Intellectual>20</Intellectual>
-                    <Medicine>20</Medicine>
-                    <Melee>20</Melee>
-                    <Mining>20</Mining>
-                    <Shooting>20</Shooting>
-                    <Social>20</Social>
+                    <Animals>3</Animals>
+                    <Artistic>3</Artistic>
+                    <Construction>3</Construction>
+                    <Cooking>3</Cooking>
+                    <Crafting>3</Crafting>
+                    <Plants>3</Plants>
+                    <Intellectual>3</Intellectual>
+                    <Medicine>3</Medicine>
+                    <Melee>3</Melee>
+                    <Mining>3</Mining>
+                    <Shooting>3</Shooting>
+                    <Social>3</Social>
                 </skillGains>
                 <hungerRateFactor>0.1</hungerRateFactor>
             </li>
